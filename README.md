@@ -1,6 +1,6 @@
 # wafer-widget
 
-基于 Canvas 2D + WebGL 的晶圆图（Wafer Map）渲染与标注组件。核心架构源自图片标注库 [canvas-select-plus](https://github.com/DongMenKant/canvas-select-plus)，在其缩放、平移、标注交互体系上扩展了半导体晶圆图所需的数据可视化能力。TypeScript 编写，打包为 UMD 模块，无框架依赖。
+基于 Canvas 2D + WebGL 的晶圆图（Wafer Map）渲染与标注组件，提供缩放、平移、标注等完整交互体系，以及半导体晶圆图所需的数据可视化能力。TypeScript 编写，打包为 UMD 模块，无框架依赖。
 
 ![晶圆图示例](./index.png)
 
